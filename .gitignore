@@ -1,4 +1,4 @@
 .todo
 .vscode/
-obj/
-bin/
+*/obj/
+*/bin/
